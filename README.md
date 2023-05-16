@@ -27,5 +27,6 @@ This tool is a Python-based utility that converts any type of hash into MD5 and 
 
 # Note : Updated version contains : 
 1. Added TR-ID which is a utility to identify file types from their binary signatures. 
+2. Add IBM Xforce API result for the Hashes.
  
   
