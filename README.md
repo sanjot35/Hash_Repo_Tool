@@ -24,5 +24,8 @@ This tool is a Python-based utility that converts any type of hash into MD5 and 
 
 6. Check the file and user will get the desire result of the MD5 hashes with their reputation. Also, incase of any error it will directly pop up out with error notification.
 
+
+# Note : Updated version contains : 
+1. Added TR-ID which is a utility to identify file types from their binary signatures. 
  
   
